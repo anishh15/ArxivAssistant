@@ -1,0 +1,25 @@
+# ─── Core LangChain ───────────────────────────────────────────────────
+langchain
+langchain-core
+langchain-community
+
+# ─── HuggingFace Integration ─────────────────────────────────────────
+langchain-huggingface
+huggingface-hub
+sentence-transformers
+
+# ─── Vector Store ─────────────────────────────────────────────────────
+faiss-cpu
+
+# ─── Arxiv Document Loader ───────────────────────────────────────────
+arxiv
+pymupdf
+
+# ─── Text Splitters ──────────────────────────────────────────────────
+langchain-text-splitters
+
+# ─── UI ───────────────────────────────────────────────────────────────
+streamlit
+
+# ─── Utilities ────────────────────────────────────────────────────────
+python-dotenv
